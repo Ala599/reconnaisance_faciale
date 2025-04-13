@@ -63,7 +63,8 @@ Détection des visages
 
 Reconnaissance faciale
 
-Instructions pour les résultats
+Instructions pour les résultats:
+
 Les résultats (images améliorées, visages détectés, reconnaissance faciale) seront sauvegardés dans votre répertoire de travail.
 
 Auteurs :
