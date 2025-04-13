@@ -1,11 +1,10 @@
 # reconnaisance_faciale
  "Projet de reconnaissance faciale des images flous avec OpenCV"
-Amélioration, Détection et Reconnaissance Faciale
+ 
+ Amélioration, Détection et Reconnaissance Faciale
 
 Ce projet utilise les bibliothèques Python OpenCV, NumPy et DeepFace pour améliorer la qualité d'une image, détecter les visages présents, et effectuer une reconnaissance faciale par comparaison avec une image de référence.
 
-Dépendances
-Python 3.10
 
 Bibliothèques nécessaires :
 
@@ -41,17 +40,16 @@ Résultats :
 
 Image annotée indiquant si le visage est reconnu (recognized_faces.jpg).
 
-Comment exécuter le programme
+Comment exécuter le programme :
 Placez les fichiers image nécessaires dans votre répertoire de travail :
 
 Image floue : image_floue1.jpg
 
 Image de référence : image_claire.jpg
 
-Exécutez le script Python à partir du terminal :
+Exécutez le script Python:
 
-bash
-python script.py
+python projet.py
 Suivez les étapes affichées dans le terminal :
 
 Amélioration de l'image
@@ -63,7 +61,8 @@ Reconnaissance faciale
 Instructions pour les résultats
 Les résultats (images améliorées, visages détectés, reconnaissance faciale) seront sauvegardés dans votre répertoire de travail.
 
-Appuyez sur une touche après chaque étape pour voir les fenêtres avec les images générées.
+Auteurs :
+Le code a été développé par Raja Bouabidi et Ala Bendaoued .
 
-Auteur
-Le code a été développé par Raja Bouabidi et Ala Bendaoued.
+
+
