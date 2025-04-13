@@ -15,7 +15,9 @@ NumPy (numpy)
 DeepFace (deepface)
 
 Fonctionnalités disponibles
+
 📌 Amélioration d'image
+
 Description : Utilise des techniques de traitement d'image telles que la transformée en cosinus discrète (DCT), l'égalisation d'histogramme et un seuillage adaptatif pour améliorer la qualité visuelle d'une image floue.
 
 Résultats :
@@ -25,6 +27,7 @@ Image améliorée (image_amelioree.jpg)
 Image seuillée (image_seuillage.jpg)
 
 📌 Détection de visages
+
 Description : Utilise un classificateur Haar pour détecter les visages dans une image et encadre automatiquement les visages trouvés.
 
 Résultats :
@@ -34,6 +37,7 @@ Image avec les visages détectés (detected_faces.jpg)
 Coordonnées des visages détectés.
 
 📌 Reconnaissance faciale
+
 Description : Compare les visages détectés avec une image de référence pour déterminer si un visage est connu ou inconnu.
 
 Résultats :
@@ -50,6 +54,7 @@ Image de référence : image_claire.jpg
 Exécutez le script Python:
 
 python projet.py
+
 Suivez les étapes affichées dans le terminal :
 
 Amélioration de l'image
